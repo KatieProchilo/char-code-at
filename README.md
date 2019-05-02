@@ -79,6 +79,8 @@ Access char-code-at functionality from your JavaScript or [TypeScript](https://g
 const charCodeAt = require('../char-code-at');
 ```
 
+Then, in your code pass in 1. The string to analyze, 2. The first index to analyze, and 3. The last index to analyze.
+
 ```javascript
 charCodeAt.printCharCodes("Hi, world", 4, 5);
 ```
