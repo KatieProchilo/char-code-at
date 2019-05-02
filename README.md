@@ -5,9 +5,9 @@
    * [CLI Tool](#CLI-Tool)
    * [Package](#Package)
 
-# char-code-at
+# [char-code-at](https://www.npmjs.com/package/char-code-at)
 
-A simple npm package to get the ASCII character codes of any string.
+A simple [npm package](https://www.npmjs.com/package/char-code-at) to get the ASCII character codes of any string.
 
 ## Installation
 
