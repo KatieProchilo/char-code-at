@@ -1,6 +1,6 @@
 {
   "name": "char-code-at",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Get the char codes for any string passed in.",
   "homepage": "https://github.com/KatieProchilo/char-code-at#readme",
   "main": "lib/index.js",
