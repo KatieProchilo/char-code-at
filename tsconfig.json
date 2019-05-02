@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "target": "ESNext",
+    "module": "commonjs",
+    "sourceMap": true,
+    "outDir": "./lib",
+    "rootDir": "src",
+    "noImplicitAny": false,
+  },
+  "files": [
+    "src/index.ts",
+    "src/char-code-at.ts"
+  ]
+}
